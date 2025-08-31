@@ -1,7 +1,6 @@
 # Applied AI in Risk and Finance
 
-[`Lectures`](#lectures) | [`Details`](#details) |
-[`FAQ`](#faq) | [`License`](#license)
+[`Lectures`](#lectures) | [`Course outline`](#course outline) | [`Prerequisites`](#prerequisites) |  | [`FAQ`](#faq) | [`License`](#license)
 
 ## Lectures
 
@@ -10,13 +9,20 @@
 3. Generative AI - Build an Annual Reports Agent \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/courses/blob/main/3_genai/genai.ipynb) | [**.html**](https://juliandoerr.com/courses/3_course/#/)\]
 
 
-## Details
+## Course outline
 
-This is a graduate course taught by [Grant McDermott](http://grantmcdermott.com) at the University of Oregon. Here is the course description, taken from the [syllabus](https://github.com/uo-ec607/syllabus/blob/master/syllabus.pdf):
+This is a hands on AI course thaugt by [Julian Dörr](https://juliandoerr.com/) to equip participants with essential skills to apply AI methods and models in real world use cases. Here is the course description taken from the course [repository](https://github.com/ai-analytics-jlu-ws25-26/courses) 
 
 > This seminar is targeted at PhD students interested in learning how different subfields of Artificial Intelligence are applied in practice. This course will likely differ from other courses in your PhD program as it places great focus on how different methods which originate from research help to tackle real world use cases in the finance and risk industry. My goal is bring you up to speed on the practical tools, techniques and frameworks that I feel will most benefit your future career both in research but also in industry. While the typical core graduate curriculum places great focus on the theoretical foundations, this course focuses on how to put great methods and models into practice. We will cover topics like version control (Git); data cleaning and visualization; programming in Python; and most importantly the application of AI methods from the field of Machine Learning (ML), Natural Language Processing (NLP) and Generative Artificial Intelligence (GenAI). **In short, we will cover things that enable you to bridge the gap between theory and practice.**
 
 Please do read the rest of the README before you go through the lectures. This will detail software requirements and installation, and give you a better sense of the full aims and scope of the course.
+
+## Prerequisites
+
+All of the code in this course is written in Python. While coding itself is not the focus of the course, and much of the coding complexity is abstracted away via functions and classes, it is yet recommended to have some prior knowledge of Python or any other object-oriented programming language. This makes is just easier for you to dive into the actual content - AI methods and their applications - so you do not have to start from scratch with both the actual content _and_ technical means we use to do so, i.e. Python programming. To give you a better sense how good your Python knowledge is, I have prepared a short quiz that consists of short Python programming tasks. The quiz serves merely as self-assessment - so no grading nothing. If you manage to solve the majority of the tasks you are good to go to dive into the course material. If you struggle with the tasks, you may want to prepare yourself for the course by self-learning at least the basics of Python. There is ton great courses and tutorials out there. One that I can recommend is the following 2 hours crash [course](https://www.youtube.com/watch?v=K5KVEU3aaeQ) for complete beginners. It's free and engaging.
+
+## Technical setup
+
 
 ## FAQ
 
@@ -24,9 +30,9 @@ Please do read the rest of the README before you go through the lectures. This w
 
 Please note that this is a work in progress, with new material being added every week. 
 
-If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply scroll up to the [Lectures](#lectures) quicklinks section at the top of this page. Completed lectures will be hyperlinked as soon as they have been added. Remember to check back in regularly to get any updates. Or, you can watch or star the repo to get notified automatically.
+If you just want to read the lecture slides or HTML notebooks in your browser, then you should simply scroll up to the [Lectures](#lectures) quicklinks section at the top of this page.
 
-If you actually want to run the analysis and code on your own system (highly recommended), then you will need to download the material to your local machine. The best way to do this is to clone the repo via Git and then pull regularly to get updates. Please take a look at [these slides](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html) if you are unfamiliar with Git or are unsure how to do any of that. Once that's done, you will find each lecture contained in a numbered folder (e.g. `01-intro`). The lectures themselves are written in R Markdown and then exported to HMTL format. Click on the HTML files if you just want to view the slides or notebooks.
+If you actually want to run the analysis and code on your own system (highly recommended), then you will need to download the material to your local machine. The best way to do this is to clone the repo via Git and then pull regularly to get updates. Please take a look at [these slides](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html) if you are unfamiliar with Git or are unsure how to do any of that. Once that's done, you will find each lecture contained in a numbered folder (e.g. `1_ml`).
 
 ### I've spotted a mistake or would like to contribute
 
