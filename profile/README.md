@@ -4,7 +4,7 @@ Welcome to the official course website for **Applied AI in Risk and Finance**!
 
 ## Course Outline
 
-This is a **hands-on course** is designed to equip you with the essential skills to apply AI methods and models to real-world use cases. Below is the course description sourced and adapted from the [course repository](https://github.com/ai-analytics-jlu-ws25-26/courses):
+This **hands-on course** is designed to equip you with the essential skills to apply AI methods and models to real-world use cases. Below is the course description sourced and adapted from the [course repository](https://github.com/ai-analytics-jlu-ws25-26/courses):
 
 > This seminar is aimed at PhD students eager to explore how various subfields of Artificial Intelligence are applied in practice. Unlike typical PhD courses, this seminar emphasizes how advanced methods that originated from research can be leveraged to solve practical problems in finance and risk management. My goal is to bring you up to speed with practical tools, techniques, and frameworks that will benefit your future professional endavours—whether in academia or industry. While traditional graduate courses focus heavily on theory, this course prioritizes **bridging the gap between theory and practice**. We will cover essential topics such as version control (Git), data cleaning and visualization, Python programming, and, most importantly, the application of AI techniques from Machine Learning (ML), Natural Language Processing (NLP), and Generative Artificial Intelligence (GenAI).
 
@@ -43,7 +43,7 @@ We will use **Python 3.12** throughout the course (download [here](https://www.p
 
 We will use **Git** for version control (install instructions [here](https://git-scm.com/downloads)) and **GitHub** for hosting and collaboration (create an account [here](https://github.com/join)). While this course is not focused on Git, basic Git operations like cloning repositories will be part of this course.
 
-Beyond this course, I highly recommend learning Git for your own projects. Git helps you track changes, collaborate efficiently, and supports open science and reproducibility. Many journals now require reproducible research, and GitHub simplifies this with DOI integration and licensing options. Personally, I host all my research code, teaching materials, and even my website on GitHub.
+Beyond this course, I highly recommend learning Git for your own projects. Git helps you track changes, collaborate efficiently, and supports open science and reproducibility. Many journals now require reproducible research, and GitHub simplifies this with direct integrations to the journals' submission platforms. Personally, I host all my research code, teaching materials, and even my website on GitHub.
 
 ## FAQ
 
