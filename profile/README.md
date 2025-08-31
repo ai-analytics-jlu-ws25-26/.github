@@ -23,7 +23,7 @@ This **hands-on course** is designed to equip you with the essential skills to a
 
 All course code is written in **Python**. While coding is not the primary focus and much complexity is abstracted through functions and classes, having some prior experience with Python or any other object-oriented programming language is recommended. This will allow you to focus on the AI concepts and applications without getting bogged down by programming basics.
 
-To help you gauge your Python skills, I’ve prepared a short self-assessment quiz featuring simple Python programming tasks. There is no grading—just a way for you to check your readiness. If you find the tasks challenging, consider brushing up on Python basics before starting. A great resource is this engaging, free 2-hour crash [course](https://www.youtube.com/watch?v=K5KVEU3aaeQ) for complete beginners.
+To help you gauge your Python skills, I’ve prepared a short [self-assessment quiz](https://github.com/ai-analytics-jlu-ws25-26/python-quiz) featuring simple Python programming tasks. There is no grading—just a way for you to check your readiness. If you find the tasks challenging, consider brushing up on Python basics before starting. A great resource is this engaging, free 2-hour crash [course](https://www.youtube.com/watch?v=K5KVEU3aaeQ) for complete beginners.
 
 ## Discussion Forum
 
