@@ -19,6 +19,16 @@ This **hands-on course** is designed to equip you with the essential skills to a
 
 **Please read the full README before diving into the lectures.** It contains important details on software requirements, installation instructions, and a comprehensive overview of the course’s aims and scope.
 
+## When, Where, Who
+
+When :calendar:: _tbd_<br>
+Where :round_pushpin:: Remote! A _tbd_ link will be sent to you.<br>
+Who: Julian Oliver Dörr<br>
+      Senior Data Scientist<br>
+      :email: me@juliandoerr.com<br>
+      :link: https://juliandoerr.com<br>
+
+
 ## Prerequisites
 
 All course code is written in **Python**. While coding is not the primary focus and much complexity is abstracted through functions and classes, having some prior experience with Python or any other object-oriented programming language is recommended. This will allow you to focus on the AI concepts and applications without getting bogged down by programming basics.
