@@ -24,9 +24,11 @@ This **hands-on course** is designed to equip you with the essential skills to a
 When :calendar:: _tbd_<br>
 Where :round_pushpin:: Remote! A _tbd_ link will be sent to you.<br>
 Who: Julian Oliver Dörr<br>
-      Senior Data Scientist<br>
-      :email: me@juliandoerr.com<br>
-      :link: https://juliandoerr.com<br>
+&nbsp;&nbsp;&nbsp;   Senior Data Scientist<br>
+&nbsp;&nbsp;&nbsp;   📧 <a href="mailto:me@juliandoerr.com">me@juliandoerr.com</a><br>
+&nbsp;&nbsp;&nbsp;   🔗 <a href="https://juliandoerr.com" target="_blank" rel="noopener noreferrer">https://juliandoerr.com</a>
+
+
 
 
 ## Prerequisites
