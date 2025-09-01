@@ -63,7 +63,7 @@ Absolutely! That’s why everything is publicly available. I only ask two favors
 1. Please let me know by email at [me@juliandoerr.com](mailto:me@juliandoerr.com) if you use or find the material helpful.<br>
 2. Please include an acknowledgment in your syllabus or notes.
 
-### Are you available to teach a condensed version of this course at my organization?
+### Are you available to teach this course at my organization?
 
 Possibly! Feel free to [contact me](mailto:me@juliandoerr.com) to discuss.
 
