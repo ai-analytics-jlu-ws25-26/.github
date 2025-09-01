@@ -4,18 +4,18 @@ Welcome to the official course website for **Applied AI in Risk and Finance**!
 
 ## Course Outline
 
-This **hands-on course** is designed to equip you with the essential skills to apply AI methods and models to real-world use cases. Below is the course description sourced and adapted from the [course repository](https://github.com/ai-analytics-jlu-ws25-26/courses):
+This **hands-on course** is designed to equip you with the essential skills to apply AI methods and models to real-world use cases. Below is the course description sourced and adapted from the [course repository](https://github.com/ai-analytics-jlu-ws25-26/course):
 
 > This seminar is aimed at PhD students eager to explore how various subfields of Artificial Intelligence are applied in practice. Unlike typical PhD courses, this seminar emphasizes how advanced methods that originated from research can be leveraged to solve practical problems in finance and risk management. My goal is to bring you up to speed with practical tools, techniques, and frameworks that will benefit your future professional endavours—whether in academia or industry. While traditional graduate courses focus heavily on theory, this course prioritizes **bridging the gap between theory and practice**. We will cover essential topics such as version control (Git), data cleaning and visualization, Python programming, and, most importantly, the application of AI techniques from Machine Learning (ML), Natural Language Processing (NLP), and Generative Artificial Intelligence (GenAI).
 
 ## Lectures
 
 1. **Machine Learning** – Developing a Risk Model  
-   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/courses/blob/main/1_ml/ml.ipynb) | [**.html**](https://juliandoerr.com/courses/1_course/#/)\]
+   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/course/blob/main/1_ml/ml.ipynb) | [**.html**](https://juliandoerr.com/courses/1_course/#/)\]
 2. **Natural Language Processing** – Automating Insurance Claims Processing  
-   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/courses/blob/main/2_nlp/nlp.ipynb) | [**.html**](https://juliandoerr.com/courses/2_course/#/)\]
+   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/course/blob/main/2_nlp/nlp.ipynb) | [**.html**](https://juliandoerr.com/courses/2_course/#/)\]
 3. **Generative AI** – Building an Annual Reports Agent  
-   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/courses/blob/main/3_genai/genai.ipynb) | [**.html**](https://juliandoerr.com/courses/3_course/#/)\]
+   \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/course/blob/main/3_genai/genai.ipynb) | [**.html**](https://juliandoerr.com/courses/3_course/#/)\]
 
 **Please read the full README before diving into the lectures.** It contains important details on software requirements, installation instructions, and a comprehensive overview of the course’s aims and scope.
 
