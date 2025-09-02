@@ -27,21 +27,17 @@ This **hands-on course** is designed to equip you with the essential skills to a
 &nbsp;&nbsp;&nbsp;   📧 <a href="mailto:me@juliandoerr.com">me@juliandoerr.com</a><br>
 &nbsp;&nbsp;&nbsp;   🔗 <a href="https://juliandoerr.com" target="_blank" rel="noopener noreferrer">https://juliandoerr.com</a><br>
 **When** :calendar:: <br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 04.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   05.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 11.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   12.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 18.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   19.12.25 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Student presentations:   Monday,   05.01.26 2pm - ~6pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-04 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-05 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-11 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-12 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-18 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-19 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Student presentations:  Monday,  2026-01-05 2pm - ~6pm<br>
 &nbsp;&nbsp;&nbsp;   *After lecture sessions I will be available for questions and discussions until ~6pm.*<br>
 &nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
 **Where** :round_pushpin:: <br>
 &nbsp;&nbsp;&nbsp;   Remote! A _tbd_ link will be sent to you.<br>
-
-
-
-
 
 ## Prerequisites
 
@@ -67,7 +63,7 @@ We will use **Python 3.12** throughout the course (download [here](https://www.p
 
 We will use **Git** for version control (install instructions [here](https://git-scm.com/downloads)) and **GitHub** for hosting and collaboration (create an account [here](https://github.com/join)). While this course is not focused on Git, basic Git operations like cloning repositories will be part of this course.
 
-Beyond this course, I highly recommend learning Git for your own projects. Git helps you track changes, collaborate efficiently, and supports open science and reproducibility. Many journals now require reproducible research, and GitHub simplifies this with direct integrations to the journals' submission platforms. Personally, I host all my research code, teaching materials, and even my website on GitHub.
+Beyond this course, I highly recommend learning Git for your own projects. Git helps you track changes, collaborate efficiently, and support open science and reproducibility. Many journals now require reproducible research, and GitHub simplifies this with direct integrations to the journals' submission platforms. Personally, I host all my research code, teaching materials, and even my website on GitHub.
 
 ## FAQ
 
@@ -93,7 +89,7 @@ Possibly! Feel free to [contact me](mailto:me@juliandoerr.com) to discuss.
 
 ### What tools do you use to produce these lecture slides and notebooks?
 
-All of the lecture material is written in Jupyter Notebooks. For the html slidesow I am using the [jupyter nbconvert](https://github.com/jupyter/nbconvert) extension which allows to convert Jupyter Notebooks into various other formats.
+All of the lecture material is written in Jupyter Notebooks. For the HTML slideshow I am using the [jupyter nbconvert](https://github.com/jupyter/nbconvert) extension which allows to convert Jupyter Notebooks into various other formats.
 
 ## License
 
