@@ -19,14 +19,26 @@ This **hands-on course** is designed to equip you with the essential skills to a
 
 **Please read the full README before diving into the lectures.** It contains important details on software requirements, installation instructions, and a comprehensive overview of the course’s aims and scope.
 
-## When, Where, Who
+## Who, When, Where
 
-When :calendar:: _tbd_<br>
-Where :round_pushpin:: Remote! A _tbd_ link will be sent to you.<br>
-Who: Julian Oliver Dörr<br>
+**Who** :wave:: <br>
+&nbsp;&nbsp;&nbsp;   Julian Oliver Dörr<br>
 &nbsp;&nbsp;&nbsp;   Senior Data Scientist @ Atruvia AG<br>
 &nbsp;&nbsp;&nbsp;   📧 <a href="mailto:me@juliandoerr.com">me@juliandoerr.com</a><br>
-&nbsp;&nbsp;&nbsp;   🔗 <a href="https://juliandoerr.com" target="_blank" rel="noopener noreferrer">https://juliandoerr.com</a>
+&nbsp;&nbsp;&nbsp;   🔗 <a href="https://juliandoerr.com" target="_blank" rel="noopener noreferrer">https://juliandoerr.com</a><br>
+**When** :calendar:: <br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 04.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   05.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 11.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   12.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 18.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   19.12.25 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Student presentations:   Monday,   05.01.26 2pm - ~6pm<br>
+&nbsp;&nbsp;&nbsp;   *After lecture sessions I will be available for questions and discussions until ~6pm.*<br>
+&nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
+**Where** :round_pushpin:: <br>
+&nbsp;&nbsp;&nbsp;   Remote! A _tbd_ link will be sent to you.<br>
+
 
 
 
