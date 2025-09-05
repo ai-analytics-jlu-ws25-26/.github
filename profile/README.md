@@ -6,9 +6,9 @@ Welcome to the official course website for **Applied AI in Risk and Finance**!
 
 This **hands-on course** is designed to equip you with the essential skills to apply AI methods and models to real-world use cases. Below is the course description sourced and adapted from the [course repository](https://github.com/ai-analytics-jlu-ws25-26/course):
 
-> This seminar is aimed at PhD students eager to explore how various subfields of Artificial Intelligence are applied in practice. Unlike typical PhD courses, this seminar emphasizes how advanced methods that originated from research can be leveraged to solve practical problems in finance and risk management. My goal is to bring you up to speed with practical tools, techniques, and frameworks that will benefit your future professional endavours—whether in academia or industry. While traditional graduate courses focus heavily on theory, this course prioritizes **bridging the gap between theory and practice**. We will cover essential topics such as version control (Git), data cleaning and visualization, Python programming, and, most importantly, the application of AI techniques from Machine Learning (ML), Natural Language Processing (NLP), and Generative Artificial Intelligence (GenAI).
+> This seminar is aimed at PhD candidates eager to explore how various subfields of Artificial Intelligence are applied in practice. Unlike typical PhD courses, this seminar emphasizes how advanced methods that originated from research can be leveraged to solve practical problems in finance and risk management. My goal is to bring you up to speed with practical tools, techniques, and frameworks that will benefit your future professional endeavor — whether in academia or industry. While traditional graduate courses focus heavily on theory, this course prioritizes **bridging the gap between theory and practice**. We will cover essential topics such as version control (Git), data cleaning and visualization, Python programming, and, most importantly, the application of AI techniques from Machine Learning (ML), Natural Language Processing (NLP), and Generative Artificial Intelligence (GenAI).
 
-## Lectures
+## Content
 
 1. **Machine Learning** – Developing a Risk Model  
    \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/course/blob/main/1_ml/ml.ipynb) | [**.html**](https://juliandoerr.com/courses/1_course/#/)\]
@@ -17,7 +17,7 @@ This **hands-on course** is designed to equip you with the essential skills to a
 3. **Generative AI** – Building an Annual Reports Agent  
    \[[**.ipynb**](https://github.com/ai-analytics-jlu-ws25-26/course/blob/main/3_genai/genai.ipynb) | [**.html**](https://juliandoerr.com/courses/3_course/#/)\]
 
-**Please read the full README before diving into the lectures.** It contains important details on software requirements, installation instructions, and a comprehensive overview of the course’s aims and scope.
+**Please read the full README before diving into the lab material.** It contains important details on software requirements, installation instructions, and a comprehensive overview of the course’s aims and scope.
 
 ## Who, When, Where
 
@@ -27,17 +27,17 @@ This **hands-on course** is designed to equip you with the essential skills to a
 &nbsp;&nbsp;&nbsp;   📧 <a href="mailto:me@juliandoerr.com">me@juliandoerr.com</a><br>
 &nbsp;&nbsp;&nbsp;   🔗 <a href="https://juliandoerr.com" target="_blank" rel="noopener noreferrer">https://juliandoerr.com</a><br>
 **When** :calendar:: <br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-04 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-05 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-11 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-12 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Thursday, 2025-12-18 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Lecture:                Friday,   2025-12-19 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Student presentations:  Monday,  2026-01-05 2pm - ~6pm<br>
-&nbsp;&nbsp;&nbsp;   *After lecture sessions I will be available for questions and discussions until ~6pm.*<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Thursday, 2025-12-04 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Friday,   2025-12-05 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Thursday, 2025-12-11 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Friday,   2025-12-12 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Thursday, 2025-12-18 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Lab:                Friday,   2025-12-19 2pm - ~5pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Presentations:  Monday,  2026-01-05 2pm - ~6pm<br>
+&nbsp;&nbsp;&nbsp;   *After lab sessions I will be available for questions and discussions until ~6pm.*<br>
 &nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
 **Where** :round_pushpin:: <br>
-&nbsp;&nbsp;&nbsp;   Remote! A _tbd_ link will be sent to you.<br>
+&nbsp;&nbsp;&nbsp;   Remote! A BigBlueButton (virtual classroom) link will be sent to you.<br>
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ I will regularly monitor the forum to answer open questions, but please feel emp
 
 ## Technical Setup
 
-All required software is **open-source and free**. Please aim to complete installation before the first lecture. I will be available to assist with setup issues in the week prior to the start of the course via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions).
+All required software is **open-source and free**. Please aim to complete installation before the first lab session. I will be available to assist with setup issues in the week prior to the start of the course via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions).
 
 ### Python
 
@@ -69,13 +69,13 @@ Beyond this course, I highly recommend learning Git for your own projects. Git h
 
 ### How do I download the material and stay updated?
 
-This course is continuously evolving with new content added from time to time. To simply view lecture slides or HTML notebooks, use the [Lectures](#lectures) links above. Each lecture is organized in a numbered folder (e.g., `1_ml`).
+This course is continuously evolving with new content added from time to time. To simply view lab slides or HTML notebooks, use the [Content](#content) links above. Each workshop is organized in a numbered folder (e.g., `1_ml`).
 
 To run the code locally (highly recommended), clone the repository using Git and regularly pull updates. If you’re new to Git, this [tutorial](https://realpython.com/courses/python-git-github-intro/) provides a helpful introduction.
 
 ### I found a mistake or want to contribute
 
-Please [open a new issue](https://help.github.com/articles/creating-an-issue/) via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions). Even better, fork the repo and submit a pull request via [this guide](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). Contributions are very welcome, though responses may be slower while the course is under development. Note that I may not provide software or conceptual support to non-enrolled students, but others in the community might help.
+Please [open a new issue](https://help.github.com/articles/creating-an-issue/) via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions). Even better, fork the repo and submit a pull request via [this guide](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). Contributions are very welcome, though responses may be slower while the course is under development. Note that I may not provide software or conceptual support to non-enrolled participants, but others in the community might help.
 
 ### Can I use or adapt this material for my own course?
 
@@ -87,9 +87,9 @@ Absolutely! That’s why everything is publicly available. I only ask two favors
 
 Possibly! Feel free to [contact me](mailto:me@juliandoerr.com) to discuss.
 
-### What tools do you use to produce these lecture slides and notebooks?
+### What tools do you use to produce these workshop slides and notebooks?
 
-All of the lecture material is written in Jupyter Notebooks. For the HTML slideshow I am using the [jupyter nbconvert](https://github.com/jupyter/nbconvert) extension which allows to convert Jupyter Notebooks into various other formats.
+All of the lab material is written in Jupyter Notebooks. For the HTML slideshow I am using the [jupyter nbconvert](https://github.com/jupyter/nbconvert) extension which allows to convert Jupyter Notebooks into various other formats.
 
 ## License
 
