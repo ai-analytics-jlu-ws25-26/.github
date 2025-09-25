@@ -53,7 +53,7 @@ I will regularly monitor the forum to answer open questions, but please feel emp
 
 ## Technical Setup
 
-All required software is **open-source and free**. Please aim to complete installation before the first lab session. I will be available to assist with setup issues in the week prior to the start of the course via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions).
+All required software is **open-source and free**. Please aim to complete installation before the first lab session. I will be available to assist with setup issues in the week prior to the start of the course via the [discussion forum](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions). In the discussion forum you can also find a walkthrough [video](https://github.com/orgs/ai-analytics-jlu-ws25-26/discussions/1) that guides you through the setup.
 
 ### Python
 
