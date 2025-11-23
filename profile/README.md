@@ -37,7 +37,7 @@ This **hands-on course** is designed to equip you with the essential skills to a
 &nbsp;&nbsp;&nbsp;   *After lab sessions I will be available for questions and discussions until ~6pm.*<br>
 &nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
 **Where** :round_pushpin:: <br>
-&nbsp;&nbsp;&nbsp;   Remote! A BigBlueButton (virtual classroom) link will be sent to you.<br>
+&nbsp;&nbsp;&nbsp;   Remote! A Zoom link will be provided to you.<br>
 
 ## Prerequisites
 
