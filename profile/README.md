@@ -38,6 +38,7 @@ This **hands-on course** is designed to equip you with the essential skills to a
 &nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
 **Where** :round_pushpin:: <br>
 &nbsp;&nbsp;&nbsp;   Remote via [Zoom](https://us06web.zoom.us/j/84650632226?pwd=86HIeNuhXrSvn6iC8g60GgOCs0qCqm.1).<br>
+&nbsp;&nbsp;&nbsp;   Passcode: 639090<br>
 
 ## Prerequisites
 
