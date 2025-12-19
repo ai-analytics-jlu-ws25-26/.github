@@ -33,7 +33,7 @@ This **hands-on course** is designed to equip you with the essential skills to a
 &nbsp;&nbsp;&nbsp;   :clock2: Lab:                Friday,   2025-12-12 2pm - ~5pm<br>
 &nbsp;&nbsp;&nbsp;   :clock2: Lab:                Thursday, 2025-12-18 2pm - ~5pm<br>
 &nbsp;&nbsp;&nbsp;   :clock2: Lab:                Friday,   2025-12-19 2pm - ~5pm<br>
-&nbsp;&nbsp;&nbsp;   :clock2: Presentations:  Monday,  2026-01-16 2pm - ~6pm<br>
+&nbsp;&nbsp;&nbsp;   :clock2: Presentations:  Friday,  2026-01-16 2pm - ~6pm<br>
 &nbsp;&nbsp;&nbsp;   *After lab sessions I will be available for questions and discussions until ~6pm.*<br>
 &nbsp;&nbsp;&nbsp;   *Times are in Central European Time (UTC+1).*<br>
 **Where** :round_pushpin:: <br>
